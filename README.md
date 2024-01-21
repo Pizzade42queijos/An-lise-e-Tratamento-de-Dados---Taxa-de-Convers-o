@@ -1,0 +1,1 @@
+Neste Jupiter Notebook analisamos uma base de dados contento informações relativas a taxa de conversão de um negócio e suas campanhas publicitárias, a base possui uma série de problemas que serão resolvidos ou minimizados aos poucos, além de uma quandidade de insights que poderão ser obtidos utilizando ferramentas gráficas e analise dos dados presentes.
